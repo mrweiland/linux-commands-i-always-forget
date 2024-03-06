@@ -1,5 +1,10 @@
 # RHEL
-## Services environment variables
+## Services
+
+```systemctl```
+```systemctl | grep vsts```
+
+
 ```cd /etc/systemd/system```
 
 ```
