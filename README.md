@@ -1,5 +1,6 @@
-# Services environment variables
-- ```cd /etc/systemd/system```
+# RHEL
+## Services environment variables
+```cd /etc/systemd/system```
 
 ```
 [Service]
