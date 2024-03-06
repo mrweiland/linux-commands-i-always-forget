@@ -1,5 +1,5 @@
 # Services environment variables
-```/etc/systemd/system```
+- ```cd /etc/systemd/system```
 
 ```
 [Service]
