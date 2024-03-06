@@ -1,5 +1,7 @@
 # Services environment variables
-/etc/systemd/system
+```/etc/systemd/system```
 
+```
 [Service]
 Environment=CA_FILE=/my/CA.pem
+```
